@@ -1,6 +1,6 @@
 # book_app
 
-A new Flutter project.
+Book API Tugas 2 Flutter
 
 ## Getting Started
 
